@@ -1,0 +1,38 @@
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.005, "memory": 4848, "data_time": 0.38315, "loss": 1.24299, "time": 0.69968}
+{"mode": "train", "epoch": 1, "iter": 20, "lr": 0.005, "memory": 4848, "data_time": 0.00494, "loss": 0.529, "time": 0.11384}
+{"mode": "train", "epoch": 1, "iter": 30, "lr": 0.005, "memory": 4848, "data_time": 0.00494, "loss": 0.41293, "time": 0.11456}
+{"mode": "val", "epoch": 1, "iter": 9, "lr": 0.005, "accuracy_top-1": 29.07407}
+{"mode": "train", "epoch": 2, "iter": 10, "lr": 0.0049, "memory": 4848, "data_time": 0.32432, "loss": 0.53748, "time": 0.43953}
+{"mode": "train", "epoch": 2, "iter": 20, "lr": 0.0049, "memory": 4848, "data_time": 0.00492, "loss": 0.40044, "time": 0.11389}
+{"mode": "train", "epoch": 2, "iter": 30, "lr": 0.0049, "memory": 4848, "data_time": 0.00493, "loss": 0.38438, "time": 0.11443}
+{"mode": "val", "epoch": 2, "iter": 9, "lr": 0.0049, "accuracy_top-1": 22.22222}
+{"mode": "train", "epoch": 3, "iter": 10, "lr": 0.0048, "memory": 4848, "data_time": 0.31555, "loss": 0.45541, "time": 0.43103}
+{"mode": "train", "epoch": 3, "iter": 20, "lr": 0.0048, "memory": 4848, "data_time": 0.0048, "loss": 0.36693, "time": 0.11469}
+{"mode": "train", "epoch": 3, "iter": 30, "lr": 0.0048, "memory": 4848, "data_time": 0.00483, "loss": 0.375, "time": 0.11524}
+{"mode": "val", "epoch": 3, "iter": 9, "lr": 0.0048, "accuracy_top-1": 25.92592}
+{"mode": "train", "epoch": 4, "iter": 10, "lr": 0.00471, "memory": 4848, "data_time": 0.33498, "loss": 0.35563, "time": 0.44821}
+{"mode": "train", "epoch": 4, "iter": 20, "lr": 0.00471, "memory": 4848, "data_time": 0.00496, "loss": 0.35987, "time": 0.1151}
+{"mode": "train", "epoch": 4, "iter": 30, "lr": 0.00471, "memory": 4848, "data_time": 0.00459, "loss": 0.31972, "time": 0.11474}
+{"mode": "val", "epoch": 4, "iter": 9, "lr": 0.00471, "accuracy_top-1": 21.48148}
+{"mode": "train", "epoch": 5, "iter": 10, "lr": 0.00461, "memory": 4848, "data_time": 0.33925, "loss": 0.32233, "time": 0.45382}
+{"mode": "train", "epoch": 5, "iter": 20, "lr": 0.00461, "memory": 4848, "data_time": 0.00471, "loss": 0.28281, "time": 0.1152}
+{"mode": "train", "epoch": 5, "iter": 30, "lr": 0.00461, "memory": 4848, "data_time": 0.00464, "loss": 0.22255, "time": 0.11555}
+{"mode": "val", "epoch": 5, "iter": 9, "lr": 0.00461, "accuracy_top-1": 23.33333}
+{"mode": "train", "epoch": 6, "iter": 10, "lr": 0.00452, "memory": 4848, "data_time": 0.30485, "loss": 0.21636, "time": 0.4196}
+{"mode": "train", "epoch": 6, "iter": 20, "lr": 0.00452, "memory": 4848, "data_time": 0.00515, "loss": 0.19742, "time": 0.11524}
+{"mode": "train", "epoch": 6, "iter": 30, "lr": 0.00452, "memory": 4848, "data_time": 0.00469, "loss": 0.24516, "time": 0.11526}
+{"mode": "val", "epoch": 6, "iter": 9, "lr": 0.00452, "accuracy_top-1": 23.14815}
+{"mode": "train", "epoch": 7, "iter": 10, "lr": 0.00443, "memory": 4848, "data_time": 0.3244, "loss": 0.24258, "time": 0.43982}
+{"mode": "train", "epoch": 7, "iter": 20, "lr": 0.00443, "memory": 4848, "data_time": 0.00501, "loss": 0.22782, "time": 0.11462}
+{"mode": "train", "epoch": 7, "iter": 30, "lr": 0.00443, "memory": 4848, "data_time": 0.00498, "loss": 0.21004, "time": 0.1156}
+{"mode": "val", "epoch": 7, "iter": 9, "lr": 0.00443, "accuracy_top-1": 24.62963}
+{"mode": "train", "epoch": 8, "iter": 10, "lr": 0.00434, "memory": 4848, "data_time": 0.33259, "loss": 0.26388, "time": 0.44593}
+{"mode": "train", "epoch": 8, "iter": 20, "lr": 0.00434, "memory": 4848, "data_time": 0.00508, "loss": 0.17497, "time": 0.1148}
+{"mode": "train", "epoch": 8, "iter": 30, "lr": 0.00434, "memory": 4848, "data_time": 0.00505, "loss": 0.18991, "time": 0.11528}
+{"mode": "val", "epoch": 8, "iter": 9, "lr": 0.00434, "accuracy_top-1": 22.03704}
+{"mode": "train", "epoch": 9, "iter": 10, "lr": 0.00425, "memory": 4848, "data_time": 0.31875, "loss": 0.46618, "time": 0.42958}
+{"mode": "train", "epoch": 9, "iter": 20, "lr": 0.00425, "memory": 4848, "data_time": 0.00502, "loss": 0.43324, "time": 0.11434}
+{"mode": "train", "epoch": 9, "iter": 30, "lr": 0.00425, "memory": 4848, "data_time": 0.00533, "loss": 0.24724, "time": 0.1153}
+{"mode": "val", "epoch": 9, "iter": 9, "lr": 0.00425, "accuracy_top-1": 22.96296}
+{"mode": "train", "epoch": 10, "iter": 10, "lr": 0.00417, "memory": 4848, "data_time": 0.2913, "loss": 0.39775, "time": 0.40716}
